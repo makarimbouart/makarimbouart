@@ -1,33 +1,31 @@
-# Hi, I'm Makarim Bouart 👋
+# Makarim Bouart
 
-🎓 Fourth-year Automotive Engineering student at L'École Nationale Polytechnique de Constantine.
+Automotive Engineering Student | Future Vehicle Dynamics Engineer
 
-## About Me
+I'm a fourth-year Automotive Engineering student from Algeria with a strong interest in vehicle dynamics, simulation, mechanical design, and electric vehicles.
 
-I'm passionate about:
+I'm currently building an engineering portfolio through MATLAB, Simulink, SolidWorks, and Python projects while preparing for international internship opportunities.
+
+## Current Focus
+
 - Vehicle Dynamics
 - Electric Vehicles
+- MATLAB & Simulink
 - Mechanical Design
 - Engineering Simulation
 
-Currently, I'm building a portfolio of engineering projects in MATLAB, Simulink, and SolidWorks while preparing for international internship opportunities.
-
-## Technical Skills
+## Technologies
 
 - MATLAB
 - Simulink
 - SolidWorks
 - Python
+- Git
 - CAD/CAM
 - CNC Programming
 
-## Currently Working On
+## 2026 Goals
 
-- 🚗 Vehicle Dynamics Simulator
-- ⚡ EV Energy Consumption Model
-- 🔧 Suspension CAD Design
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/makarim-bouart-b74069243/
-- Email: bouartmakarim@gmail.com
+- Complete 3 engineering portfolio projects
+- Build a professional GitHub portfolio
+- Secure an international engineering internship
