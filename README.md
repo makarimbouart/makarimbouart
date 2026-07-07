@@ -1,14 +1,21 @@
-![MATLAB](https://img.shields.io/badge/MATLAB-Experienced-orange)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
-![Python](https://img.shields.io/badge/Python-Basic-blue)
-
 # Makarim Bouart
 
-Automotive Engineering Student | Vehicle Dynamics | Mechanical Design | Engineering Simulation
+**Automotive Engineering Student | Vehicle Dynamics | Mechanical Design | Engineering Simulation**
 
-I'm a fourth-year Automotive Engineering student from Algeria with a strong interest in vehicle dynamics, simulation, mechanical design, and electric vehicles.
+## About Me
 
-I'm currently building an engineering portfolio through MATLAB, Simulink, SolidWorks, and Python projects while preparing for international internship opportunities.
+🎓 Fourth-year Automotive Engineering student at **L'École Nationale Polytechnique de Constantine** (Expected Graduation: 2027).
+
+I'm passionate about automotive engineering, with a particular interest in vehicle dynamics, mechanical design, engineering simulation, and electric vehicles.
+
+I'm currently building an engineering portfolio focused on MATLAB, Simulink, SolidWorks, and Python while preparing for international internship opportunities.
+
+## Experience
+
+- Formula Student Team
+  - Head of Business & Public Relations
+  - Powertrain Team Member
+- Engineering internships at Sonatrach, ENAFOR, Henkel, CR-METAL/ENCC, and ALEMO.
 
 ## Current Focus
 
@@ -30,10 +37,12 @@ I'm currently building an engineering portfolio through MATLAB, Simulink, SolidW
 
 ## 2026 Goals
 
-- Complete 3 engineering portfolio projects
-- Build a professional GitHub portfolio
+- Build three documented engineering projects
+- Strengthen MATLAB & Simulink skills
+- Publish engineering projects on GitHub
 - Secure an international engineering internship
+
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/makarim-bouart-b74069243/
-- Email: bouartmakarim@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/makarim-bouart-b74069243/)
+- 📧 **bouartmakarim@gmail.com**
