@@ -1,6 +1,10 @@
+![MATLAB](https://img.shields.io/badge/MATLAB-Experienced-orange)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
+![Python](https://img.shields.io/badge/Python-Basic-blue)
+
 # Makarim Bouart
 
-Automotive Engineering Student | Future Vehicle Dynamics Engineer
+Automotive Engineering Student | Vehicle Dynamics | Mechanical Design | Engineering Simulation
 
 I'm a fourth-year Automotive Engineering student from Algeria with a strong interest in vehicle dynamics, simulation, mechanical design, and electric vehicles.
 
@@ -29,3 +33,7 @@ I'm currently building an engineering portfolio through MATLAB, Simulink, SolidW
 - Complete 3 engineering portfolio projects
 - Build a professional GitHub portfolio
 - Secure an international engineering internship
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/makarim-bouart-b74069243/
+- Email: bouartmakarim@gmail.com
