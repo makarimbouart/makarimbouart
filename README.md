@@ -4,7 +4,7 @@
 
 ## About Me
 
-🎓 Fourth-year Automotive Engineering student at **L'École Nationale Polytechnique de Constantine** (Expected Graduation: 2027).
+Fourth-year Automotive Engineering student at **L'École Nationale Polytechnique de Constantine** (Expected Graduation: 2027).
 
 I'm passionate about automotive engineering, with a particular interest in vehicle dynamics, mechanical design, engineering simulation, and electric vehicles.
 
